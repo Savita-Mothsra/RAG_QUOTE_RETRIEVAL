@@ -1,4 +1,4 @@
-# Vedio Link : https://drive.google.com/file/d/1AgLsSf8iKcwFDe2tDFPx5mm_ncPs2O1Q/view?usp=sharing
+# Video Link : https://drive.google.com/file/d/1AgLsSf8iKcwFDe2tDFPx5mm_ncPs2O1Q/view?usp=sharing
 #  Semantic Quote Retrieval with RAG
 
 This project implements a **Retrieval Augmented Generation (RAG)** system to semantically search quotes from the [Abirate/english_quotes]dataset using a fine-tuned sentence embedding model and FAISS, with a Streamlit interface and evaluation using RAGAS.
